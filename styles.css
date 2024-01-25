@@ -214,7 +214,7 @@ background-size: cover;
 }
 .menu-text{
     
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 
@@ -261,6 +261,7 @@ footer{
     display: flex;
     flex-direction: column;
     height: 30vh;
+    overflow: hidden;
 }
 
 footer h4{
@@ -268,7 +269,8 @@ footer h4{
 
 }
 footer p{
-    font-size:1rem;
+    font-size:16px;
+    text-wrap:wrap;
 
 }
 
