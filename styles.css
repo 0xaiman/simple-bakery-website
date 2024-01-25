@@ -281,13 +281,13 @@ footer p{
 
 
 /* Mediaquery */
-@media screen and (max-width: 449px) {
+@media screen and (max-width: 600px) {
     .desktop-port-info{
         display: none;
     }
 
 }
-@media screen and (min-width: 450px) {
+@media screen and (min-width: 600px) {
     .hero-section,
     .section-2,
     .section-3,
